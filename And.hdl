@@ -15,4 +15,5 @@ CHIP And {
 
     PARTS:
     // Put your code here:
+    if a=b=1 then out=1 else out=0;
 }
